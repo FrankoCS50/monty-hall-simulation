@@ -64,7 +64,7 @@ Install required libraries with:
 pip install matplotlib numpy
 
 ### Clone this repository:
-git clone https://github.com/yourusername/monty-hall-simulation.git
+git clone https://github.com/FrankoCS50/monty-hall-simulation.git
 cd monty-hall-simulation
 
 ### Run the Python script:
