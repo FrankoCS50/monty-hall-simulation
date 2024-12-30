@@ -60,7 +60,7 @@ Ensure you have Python installed and the following library:
 - `numpy` (optional, for optimized simulations)
 
 Install required libraries with:
-
+```bash```
 pip install matplotlib numpy
 
 ### Clone this repository:
@@ -71,8 +71,8 @@ cd monty-hall-simulation
 python monty_hall_simulation.py
 
 ### Example Console Output
-Cambiando Porta - Vittorie: 0.6667 (CI: 0.6652, 0.6682)
-Non Cambiando Porta - Vittorie: 0.3333 (CI: 0.3323, 0.3348)
+- Cambiando Porta - Vittorie: 0.6667 (CI: 0.6652, 0.6682)
+- Non Cambiando Porta - Vittorie: 0.3333 (CI: 0.3323, 0.3348)
 
 ### Graphs
 1. Bar Chart: Shows the number of wins and losses for each strategy.
