@@ -60,7 +60,7 @@ Ensure you have Python installed and the following library:
 - `numpy` (optional, for optimized simulations)
 
 Install required libraries with:
-```bash
+
 pip install matplotlib numpy
 
 ### Clone this repository:
