@@ -60,9 +60,9 @@ Ensure you have Python installed and the following library:
 - `numpy` (optional, for optimized simulations)
 
 Install required libraries with:
-```bash```
+```bash
 pip install matplotlib numpy
-
+```
 ### Clone this repository:
 git clone https://github.com/FrankoCS50/monty-hall-simulation.git
 cd monty-hall-simulation
